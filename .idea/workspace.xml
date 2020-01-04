@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f34c1a0-49ba-4f73-901e-0e9f79d8be19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VwrAKCbz5m8VP4I6xvThny86XO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.maratona.Main" />
+      <module name="Palincod" />
+      <option name="PROGRAM_PARAMETERS" value="entrada1.txt" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/out/production/Palincod/br/com/alura/maratona/entrada1.txt" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f34c1a0-49ba-4f73-901e-0e9f79d8be19" name="Default Changelist" comment="" />
+      <created>1578174853091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578174853091</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578176705881">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1578176705881" />
+    <state x="421" y="51" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1578176600185">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="51" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.689@0.0.1280.689" timestamp="1578176600185" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578176532089">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.689@0.0.1280.689" timestamp="1578176532089" />
+    <state x="376" y="108" key="EnvironmentVariablesDialog" timestamp="1578176610817">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="376" y="108" key="EnvironmentVariablesDialog/0.0.1280.689@0.0.1280.689" timestamp="1578176610817" />
+    <state x="421" y="101" key="FileChooserDialogImpl" timestamp="1578176704573">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="101" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1578176704573" />
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1578176779363">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1578176779363" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1578176779362">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1578176779362" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1578176779362">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1578176779362" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1578176779362">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1578176779362" />
+  </component>
+</project>
