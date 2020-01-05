@@ -22,14 +22,16 @@ public class Main {
      }
 
     private static boolean checkPalindromo(String palavra) {
+
         boolean isPalindromo = true;
 
-        for (int i = 0; i < palavra.length(); i++) {
+        for (int i = 0; i < palavra.length()/2; i++) {
             char esquerda = palavra.charAt(i);
             char direita = palavra.charAt(palavra.length() - 1 - i);
-//            System.out.println(esquerda +" "+ direita);
+//           System.out.println(esquerda +" "+ direita);
             if (esquerda != direita) {
                 isPalindromo = false;
+                break;
             }
         }
 
