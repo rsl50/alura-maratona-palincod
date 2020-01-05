@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f34c1a0-49ba-4f73-901e-0e9f79d8be19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/maratona/entrada2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Palincod/br/com/alura/maratona/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Palincod/br/com/alura/maratona/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Palincod/br/com/alura/maratona/entrada2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Palincod/br/com/alura/maratona/entrada2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/maratona/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/maratona/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,22 +87,22 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="101" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1578176704573" />
-    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1578237915769">
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1578245397215">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1578237915769" />
-    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1578237915768">
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1578245397215" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1578245397215">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1578237915768" />
-    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1578237915768">
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1578245397215" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1578245397215">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1578237915768" />
-    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1578237915769">
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1578245397215" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1578245397215">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1578237915769" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1578245397215" />
     <state x="337" y="171" key="com.intellij.ide.util.TipDialog" timestamp="1578234451894">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

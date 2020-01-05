@@ -13,16 +13,13 @@ public class Main {
             System.out.print(i + " ");
 
             String palavra = scanner.nextLine();
-            if (checkPalindromo(palavra)) {
+            String invertido = new StringBuilder(palavra).reverse().toString();
+
+            if (palavra.equalsIgnoreCase(invertido)) {
                 System.out.println("\"YES\"");
             } else {
                 System.out.println("\"NO\"");
             }
         }
      }
-
-    private static boolean checkPalindromo(String palavra) {
-        String invertido = new StringBuilder(palavra).reverse().toString();
-        return palavra.equals(invertido);
-    }
 }
